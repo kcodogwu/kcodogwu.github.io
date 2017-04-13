@@ -6,19 +6,19 @@ body {
 
 h1 {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, Helvetica, sans-serif;
-    font-weight: 100;
+    font-weight: normal;
     font-size: 3rem;
 }
 
 h2 {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, Helvetica, sans-serif;
-    font-weight: 100;
+    font-weight: normal;
     font-size: 2.0625rem;
 }
 
 h3 {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, Helvetica, sans-serif;
-    font-weight: 100;
+    font-weight: normal;
     font-size: 1.625rem;
 }
 
