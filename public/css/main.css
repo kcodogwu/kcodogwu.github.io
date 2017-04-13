@@ -69,7 +69,7 @@ section#intro, section#projects, section#blog {
 }
 
 div#banner {
-    font-family: -apple-system, BlinkMacSystemFont, Roboto, Consolas, 'Courier New', Courier, monospace;
+    font-family: Consolas, 'Courier New', Courier, monospace;
     font-size: 4.75rem;
     color: rgb(255, 5, 45);
     margin-top: 3.5rem;
