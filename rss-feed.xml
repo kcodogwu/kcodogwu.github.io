@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kingson Chinedu Odogwu's Blog</title>
+    <description>
+      Hi! I am a research assistant and graduate student, 
+      studying in the digital forensics and information 
+      security space. This is my blog.
+    </description>
+    <link>https://kcodogwu.github.io</link>
+    <atom:link href="https://kcodogwu.github.io/rss-feed.xml" rel="self" type="application/rss+xml" />
+
+    <item>
+      <title>I Upgraded My Website</title>
+      <link>https://kcodogwu.github.io/blog/2019/01/07/i-upgraded-my-website.html</link>
+      <guid>https://kcodogwu.github.io/blog/2019/01/07/i-upgraded-my-website.html</guid>
+      <pubDate>Mon, 07 Jan 2019 00:00:00 +0000</pubDate>
+      <description>
+        &lt;p&gt;First things first, HAPPY NEW YEAR!!!&lt;/p&gt;
+
+	&lt;p&gt;In the spirit of newness, I decided to give my 
+	website a fresh look, and finally add a blog section to 
+	it. I plan on putting up content not at as a 
+	thought-leader, but as a learner, who is happy to share 
+	things I find interesting and picked up while going 
+	through my daily activities.
+      </description>
+    </item>
+  </channel>
+</rss>
